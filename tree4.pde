@@ -6,7 +6,7 @@ void setup()
   size(600, 600);
   //frameRate(60);
   noStroke();
-  background(255);
+  background(0);
   ellipseMode(CENTER); //<>//
 }
 
